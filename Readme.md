@@ -11,4 +11,5 @@
 3. Configure AWS CLI credentials with 'aws configure'.
 4. Add the openAI API key to the environment variable.
 5. Update the 'prompts' ( line number 16 and 40) based on the requirement.
-6. execute the python script
+6. Update S3 bucket for cloudformation artifacts at line number 60
+7. execute the python script
